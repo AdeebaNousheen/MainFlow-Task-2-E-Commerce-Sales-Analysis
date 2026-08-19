@@ -104,7 +104,7 @@ The following visualizations and analysis outputs were created as part of the pr
 ## 5. Total Orders by City
 
 <p align="center">
-  <img src="./Order by city.jpeg" width="800" alt="Total Orders by City 2019">
+  <img src="./Orders by city.jpeg" width="800" alt="Total Orders by City 2019">
 </p>
 <p align="center"><b>Total Orders by City — 2019</b></p>
 
