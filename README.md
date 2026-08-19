@@ -140,7 +140,7 @@ The following visualizations and analysis outputs were created as part of the pr
 ## 9. Price vs Quantity Sold
 
 <p align="center">
-  <img src="./price vs quantity sold.jpeg" width="800" alt="Price vs Quantity Sold by Product">
+  <img src="./price vs quanitity sold.jpeg.jpeg" width="800" alt="Price vs Quantity Sold by Product">
 </p>
 <p align="center"><b>Price vs Quantity Sold by Product</b></p>
 
